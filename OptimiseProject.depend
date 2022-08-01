@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644900622 source:c:\users\ashut\desktop\code block\optimiseproject\main.c
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
